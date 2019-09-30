@@ -6,7 +6,7 @@
      
 
      
-     <a href="<? echo base_url();?> index.php/upload/infoupload"><h3>Upload again</h3></a>
+     <a href="<?php echo base_url();?>index.php/upload/infoupload"><h3>Upload again</h3></a>
      
     
  
